@@ -1,7 +1,5 @@
-Descubra um novo jogo de arrancada e sua história: Road of Speed! Torne-se a lenda das ruas e comece sua jornada para derrotar seus oponentes em corridas, um a um. Desafie, faça trocas de marcha perfeitas, ultrapasse e vença. Superar os outros desbloqueia novos carros e melhorias que o deixarão ainda mais rápido, permitindo que você desafie oponentes mais difíceis.
+Strike Legend é um simulador de boxe roguelike onde você controla um lutador e compete em uma série de torneios. Mas a escolha é sua: experimente o Modo Arcade primeiro. Nele, você enfrentará oponentes aleatórios e ganhará moedas do jogo a cada vitória. Se você quer uma jornada mais longa, o Modo Carreira permite que você lute contra nove oponentes seguidos, com o objetivo final de se tornar o Campeão Mundial.
 
-Sua jornada é dividida em três episódios, cada um com cinco fases, sendo a última uma fase de chefe. Cada fase tem seus próprios elementos de história. Não se preocupe se ficar preso, o jogo oferece um modo arcade adicional que randomiza seu oponente a cada partida!
+A cada luta, você ganhará moedas do jogo que poderão ser usadas para melhorar seus atributos e aumentar suas chances de chegar ao topo. A escolha é sua: aprimore sua saúde, precisão, força e muito mais. Cada melhoria é viável e oferece uma oportunidade para diferentes estratégias. No Modo Carreira, você tem apenas uma barra de vida para toda a partida, o que coloca você diante de uma difícil decisão: treinar para aprimorar suas habilidades ou descansar para recuperar a saúde para a próxima rodada? E se você perder, começa do zero, mas essa é a beleza dos roguelikes. Encontre sua estratégia, evolua, treine e chegue ao topo para se tornar o Campeão Mundial de Boxe.
 
-Gaste as moedas ganhas em novos carros, rodas e melhorias de desempenho. Cada carro é diferente e tem seus próprios pontos fortes e fracos. Encontre o que mais combina com você e veja até onde você consegue chegar.
-
-Pronto para se tornar o rei das ruas? Baixe Road of Speed ​​agora!
+Entre nas lutas e torne-se a maior Lenda dos Golpes. Pronto para a pancadaria?

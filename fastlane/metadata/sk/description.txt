@@ -1,7 +1,5 @@
-Objavte novú drag racingovú hru a jej príbeh - Road of Speed! Staňte sa legendárnym rýchlostným jazdcom a vydajte sa na cestu porážania súperov v pretekoch jedného po druhom. Vyzývajte, robte perfektné radenia, dostaňte sa dopredu a vyhrajte. Porážanie ostatných odomyká nové autá a vylepšenia, vďaka ktorým budete ešte rýchlejší a budete môcť vyzvať aj ťažších súperov.
+Strike Legend je roguelike boxerský simulátor, v ktorom ovládate bojovníka a bojujete naprieč turnajovou sériou. Je však len na vás, či si najprv vyskúšate arkádový režim. V arkádovom režime sa postavíte náhodným súperom a za každé víťazstvo získate herné mince. Ak ste však v hre na dlhú jazdu, kariérny režim vám umožní prebojovať sa proti deviatim súperom za sebou s konečným cieľom stať sa majstrom sveta.
 
-Vaša cesta je rozdelená do troch epizód, každá epizóda má päť etáp, pričom posledná je úroveň s bossom. Každá úroveň má svoje vlastné príbehové prvky. Nebojte sa, ak sa ocitnete v úzkych, hra obsahuje ďalší arkádový režim, ktorý zakaždým náhodne vyberie vášho súpera!
+Z vášho boja získate herné mince, ktoré môžete neskôr minúť na vylepšenie svojich štatistík a zvýšiť si tak šance na dosiahnutie vrcholu. Výber je na vás, zlepšite si zdravie, presnosť, silu a ďalšie, každé vylepšenie je realizovateľné a poskytuje príležitosť na rôzne stratégie. Pri hraní kariérneho režimu máte na celú dobu jeden ukazovateľ zdravia, čo prináša ťažké rozhodnutie, či trénovať na zvýšenie úrovne svojich schopností alebo odpočívať, aby ste si obnovili zdravie na ďalšie kolo? A ak prehráte, začnete od nuly, ale v tom je krása roguelike hier. Nájdite si svoju stratégiu, vyvíjajte sa, trénujte a dostaňte sa na vrchol, aby ste sa stali majstrom sveta v boxe.
 
-Zarobené mince míňajte na nové autá, kolesá a vylepšenia výkonu. Každé auto je iné a má svoje silné a slabé stránky. Nájdite si to, ktoré vám najviac vyhovuje, a uvidíte, ako ďaleko to dokážete zájsť.
-
-Ste pripravení stať sa kráľom ciest? Stiahnite si Road of Speed ​​teraz!
+Zapojte sa do bojov a staňte sa dokonalou Strike Legend. Ste pripravení na duel?

@@ -1,10 +1,6 @@
-Fedezz fel egy új gyorsulási versenyjátékot és történetét - a Road of Speed-et! Légy az utcai legenda gyorshajtója, kezdd el utad, és győzd le ellenfeleidet egyesével a versenyeken. Kihívás, tökéletes váltások, előnnyel és győzelemmel. Mások legyőzése új autókat és fejlesztéseket old fel, amelyek még gyorsabbá tesznek, lehetővé téve, hogy nehezebb ellenfelekkel szállj szembe.
+A Strike Legend egy roguelike box szimulátor, ahol egy harcost irányítasz, és egy versenysorozat terepén küzdesz végig. De rajtad múlik, hogy először az Arcade módot próbálod-e ki. Arcade módban véletlenszerű ellenfelekkel nézel szembe, és minden győzelemmel játékbeli érméket szerezhetsz. De ha a hosszabb útra vágysz, a Career módban kilenc ellenféllel küzdhetsz meg egymás után, azzal a végső céllal, hogy világbajnok legyél.
 
 
-Az utad három epizódra oszlik, minden epizód öt pályából áll, az utolsó egy főellenfél-pálya, és minden pályának megvannak a saját történetelemei. Ne aggódj, ha elakadsz, a játék további árkád módot is tartalmaz, amely minden alkalommal véletlenszerűen kiválasztja az ellenfeledet!
+A harcodból játékbeli érméket szerezhetsz, amelyeket később a statisztikáid fejlesztésére költhetsz, hogy növeld az esélyeidet a csúcsra jutásra. A választás a tiéd, növeld az életerődet, a pontosságodat, az erődet és egyebeket, minden fejlesztés megvalósítható, és lehetőséget ad különböző stratégiákra. Career módban egyetlen életerő sávod van az egész menetre, ami nehéz döntést hoz: edzel a képességeid fejlesztésére, vagy pihensz, hogy visszanyerd az életerődet a következő körre? És ha veszítesz, a nulláról kezdesz, de a roguelike játékok szépsége... Találd meg a stratégiádat, fejlődj, eddz, és juss a csúcsra, hogy világbajnok bokszolóvá válj!
 
-
-Költsd el a megszerzett érméket új autókra, kerekekre és teljesítménynövelő fejlesztésekre, minden autó más, és megvannak a saját erősségei és gyengeségei. Találd meg a hozzád leginkább illőt, és nézd meg, meddig tudsz eljutni vele.
-
-
-Készen állsz, hogy az utak királya legyél? Töltsd le most a Road of Speed-et!
+Csatlakozz a harcokhoz, és válj a végső ütési legendává. Készen állsz a dübörgésre?

@@ -1,7 +1,5 @@
-Tutustu uuteen kiihdytysajopeliin ja sen tarinaan – Road of Speed! Ryhdy katulegendan vauhdikkaaksi mestariksi ja aloita matkasi voittamalla vastustajia yksi kerrallaan kisoissa. Haasta, tee täydellisiä vaihtoja, pääse edelle ja voita. Toisten päihittäminen avaa uusia autoja ja päivityksiä, jotka tekevät sinusta entistä nopeamman ja antavat sinun haastaa vaikeampia vastustajia.
+Strike Legend on roguelike-nyrkkeilysimulaattori, jossa ohjaat taistelijaa ja taistelet turnaussarjan alueella. Mutta on sinusta kiinni, haluatko kokeilla ensin Arcade-tilaa. Arcade-tilassa kohtaat satunnaisia ​​vastustajia ja ansaitset pelin sisäisiä kolikoita jokaisesta voitosta. Mutta jos olet pitkällä matkalla, Career-tilassa voit taistella yhdeksän vastustajan kanssa peräkkäin, ja lopullinen tavoite on tulla maailmanmestariksi.
 
-Matkasi on jaettu kolmeen jaksoon, joissa jokaisessa on viisi tasoa, joista viimeinen on pomotaso. Jokaisella tasolla on omat tarinaelementtinsä. Älä huoli, jos juutut jumiin, pelissä on lisäksi arcade-tila, joka satunnaistaa vastustajasi joka kerta!
+Ansaitset taistelustasi pelin sisäisiä kolikoita, joita voit myöhemmin käyttää tilastojesi parantamiseen ja mahdollisuuksiisi nousta huipulle. Valinta on sinun, paranna terveyttäsi, tarkkuuttasi, voimaasi ja paljon muuta. Jokainen päivitys on toteuttamiskelpoinen ja tarjoaa mahdollisuuden erilaisiin strategioihin. Career-tilassa sinulla on yksi terveyspalkki koko juoksun ajan, mikä tuo mukanaan vaikean valinnan: harjoitteletko parantaaksesi kykyjäsi vai lepäätkö palauttaaksesi terveyttä seuraavaa kierrosta varten? Ja jos häviät, aloitat nollasta, mutta roguelike-pelien kauneus on juuri sitä, mitä tarvitset. Löydä strategiasi, kehity, harjoittele ja saavuta huipputaso nyrkkeilyn maailmanmestariksi.
 
-Käytä ansaittuja kolikoita uusiin autoihin, pyöriin ja suorituskyvyn päivityksiin. Jokainen auto on erilainen ja sillä on omat vahvuutensa ja heikkoutensa. Löydä itsellesi parhaiten sopiva ja katso, kuinka pitkälle pääset sillä.
-
-Valmis tulemaan tien kuninkaaksi? Lataa Road of Speed ​​nyt!
+Liity taisteluihin ja tule äärimmäiseksi Strike-legendaksi. Valmis taistelemaan?

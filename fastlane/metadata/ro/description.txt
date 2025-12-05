@@ -1,10 +1,6 @@
-Descoperă un nou joc de curse de dragstere și povestea sa - Road of Speed! Devino legenda vitezei stradale, începe-ți călătoria învingându-ți adversarii în curse unul câte unul. Provoacă-ți adversarii, fă schimbări perfecte, avansează și câștigă. Învingându-i pe ceilalți, vei debloca mașini noi și upgrade-uri care te vor face și mai rapid, permițându-ți să-i înfrunți pe adversari mai dificili.
+Strike Legend este un simulator de box roguelike în care controlezi un luptător și lupți pe terenul unei serii de turnee. Dar depinde de tine dacă vrei să încerci mai întâi modul Arcade. În modul Arcade, te vei confrunta cu adversari aleatori, câștigând monede de joc cu fiecare victorie. Dar dacă ești pe cale să mergi mai departe, modul Carieră îți permite să lupți cu nouă adversari la rând, cu scopul final de a deveni Campion Mondial.
 
 
-Călătoria ta este împărțită în trei episoade, fiecare episod având cinci etape, ultima fiind o etapă de șef, fiecare etapă având propriile elemente de poveste. Nu-ți face griji dacă te blochezi, jocul prezintă un mod arcade suplimentar care îți aleatorizează adversarul de fiecare dată!
+În lupta ta vei câștiga monede de joc pe care le poți cheltui ulterior pentru a-ți îmbunătăți statisticile și a-ți spori șansele de a ajunge în top. Alegerea îți aparține, îmbunătățește-ți sănătatea, precizia, puterea și multe altele, fiecare îmbunătățire fiind viabilă și oferind o oportunitate pentru strategii diferite. Când joci modul Carieră, ai o singură bară de sănătate pentru întreaga rundă, ceea ce aduce o decizie dificilă: te antrenezi pentru a-ți crește abilitățile sau te odihnești pentru a recupera sănătatea pentru runda următoare? Și dacă pierzi, începi de la 0, dar asta e frumusețea jocurilor roguelikes. Găsește-ți strategia, evoluează, antrenează-te și ajunge în vârf pentru a deveni Campion Mondial la Boxer.
 
-
-Cheltuie monedele câștigate pe mașini noi, jante și upgrade-uri de performanță, fiecare mașină este diferită și are propriile puncte forte și puncte slabe. Găsește-o pe cea care ți se potrivește cel mai bine și vezi cât de departe poți ajunge.
-
-
-Ești gata să devii regele drumurilor? Descarcă Road of Speed ​​acum!
+Alătură-te luptelor și devino Legenda Supremă a Strike-ului. Ești gata de luptă?

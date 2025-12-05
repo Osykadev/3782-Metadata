@@ -1,7 +1,5 @@
-Odkryj nową grę wyścigową typu drag i jej historię – Road of Speed! Zostań uliczną legendą speedsterów i rozpocznij swoją podróż, pokonując przeciwników w wyścigach jeden po drugim. Rzucaj wyzwania, zmieniaj biegi, wyprzedzaj innych i wygrywaj. Pokonywanie innych odblokowuje nowe samochody i ulepszenia, dzięki którym będziesz jeszcze szybszy i będziesz mógł stawić czoła trudniejszym przeciwnikom.
+Strike Legend to symulator boksu roguelike, w którym sterujesz zawodnikiem i walczysz na arenie serii turniejów. Ale to od Ciebie zależy, czy najpierw wypróbujesz tryb Arcade. W trybie Arcade zmierzysz się z losowymi przeciwnikami, zdobywając monety w grze za każde zwycięstwo. Jeśli jednak chcesz się wciągnąć, tryb Career pozwoli Ci zmierzyć się z dziewięcioma przeciwnikami z rzędu, a Twoim ostatecznym celem jest zostanie Mistrzem Świata.
 
-Twoja podróż jest podzielona na trzy epizody. Każdy epizod składa się z pięciu etapów, z których ostatni to etap z bossem. Każdy etap ma swój własny wątek fabularny. Nie martw się, jeśli utkniesz, gra oferuje dodatkowy tryb arcade, który za każdym razem losuje przeciwnika!
+Za swoje walki zdobędziesz monety w grze, które możesz później wydać na ulepszanie swoich statystyk i zwiększanie szans na zwycięstwo. Wybór należy do Ciebie: zwiększ swoje zdrowie, precyzję, siłę i wiele więcej – każde ulepszenie jest wykonalne i daje możliwość zastosowania różnych strategii. Grając w trybie Career, masz jeden pasek zdrowia na cały czas, co stawia Cię przed trudnym wyborem: czy trenować, aby zwiększyć swoje umiejętności, czy odpoczywać, aby zregenerować zdrowie na kolejną rundę? A jeśli przegrasz, zaczynasz od zera, ale to piękno roguelike'ów. Znajdź swoją strategię, rozwijaj się, trenuj i osiągnij szczyt, aby zostać Mistrzem Świata w Boksie.
 
-Wydawaj zarobione monety na nowe samochody, felgi i ulepszenia osiągów – każdy samochód jest inny i ma swoje mocne i słabe strony. Znajdź ten, który najbardziej Ci odpowiada i zobacz, jak daleko go zaprowadzisz.
-
-Gotowy, by zostać królem szos? Pobierz Road of Speed ​​już teraz!
+Dołącz do walk i zostań Legendą Strike'a. Gotowy do walki?
