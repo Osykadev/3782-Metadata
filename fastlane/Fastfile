@@ -276,10 +276,10 @@ desc "Upload metadata"
                   add_id_info_uses_idfa: true,
             },
             app_review_information: {
-                first_name: "Lidiia",
-                last_name: "Lavryk",
-                phone_number: "+380960116706",
-                email_address: "lavriklidia7@gmail.com"
+                first_name: "Anastasiya",
+                last_name: "Osyka",
+                phone_number: "+380685233583",
+                email_address: "nazarov21aleksandr@gmail.com"
               },
             reject_if_possible: false,
             overwrite_screenshots: false,
@@ -294,6 +294,7 @@ desc "Upload metadata"
     end
 
 end
+
 
 
 
