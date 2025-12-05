@@ -10,7 +10,7 @@ workflows:
         # тут мають лежати APPSTORE_ISSUER_ID, APPSTORE_KEY_ID, APPSTORE_P8, APPLE_EMAIL
         - appstore-connect
       vars:
-        IOS_BUNDLE_ID: com.khriapaproj.app
+        IOS_BUNDLE_ID: com.osykaprojdev.app
         APP_NAME: Box Legend
 
     scripts:
